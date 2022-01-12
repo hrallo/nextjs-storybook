@@ -1,7 +1,7 @@
 import React from 'react'
 // import './button.css'
-// import styles from './button.module.scss'
-import styles from './button.module.css'
+import styles from './button.module.scss'
+// import styles from './button.module.css'
 
 interface ButtonProps {
   /**
